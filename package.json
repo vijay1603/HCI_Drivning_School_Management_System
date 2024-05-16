@@ -1,0 +1,14 @@
+{
+  "name": "PassITDrivingSchool",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "start": "nw ."
+  },
+  "window": {
+    "title": "Pass IT Driving School",
+    "icon": "icon.png",
+    "width": 800,
+    "height": 600
+  }
+}
